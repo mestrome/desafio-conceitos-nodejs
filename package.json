@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mestrome/desafio-conceitos-nodejs#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.2",
     "nodemon": "^2.0.15",
     "uuidv4": "^6.2.12"
